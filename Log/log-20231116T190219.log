@@ -1,0 +1,64 @@
+19:02:24.235 INFO  tests.TestBase ******* Started method public void tests.LoginTests.loginPositiveTest(model.User)
+19:02:24.240 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+19:02:34.312 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+19:02:34.314 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Log in ']
+19:02:34.344 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Log in ']is found
+19:02:34.451 INFO  manage.MyListener Start searching element by: By.id: email
+19:02:34.484 INFO  manage.MyListener The element with locator By.id: emailis found
+19:02:34.727 INFO  manage.MyListener Start searching element by: By.id: password
+19:02:34.803 INFO  manage.MyListener The element with locator By.id: passwordis found
+19:02:35.032 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type="submit"]
+19:02:35.052 INFO  manage.MyListener The element with locator By.xpath: //button[@type="submit"]is found
+19:02:35.102 INFO  manage.MyListener Start searching element by: By.xpath: //h2[.='Logged in success']
+19:02:36.574 INFO  manage.MyListener The element with locator By.xpath: //h2[.='Logged in success']is found
+19:02:36.628 INFO  manage.MyListener Start searching element by: By.xpath: //h2[.='Logged in success']
+19:02:36.652 INFO  manage.MyListener The element with locator By.xpath: //h2[.='Logged in success']is found
+19:02:36.677 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:02:36.703 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:02:36.703 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:02:36.734 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:02:36.796 INFO  tests.TestBase ******* Finish test
+19:02:36.798 INFO  tests.TestBase ******* Started method public void tests.LoginTests.loginPositiveTest(model.User)
+19:02:36.800 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+19:02:36.828 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+19:02:36.828 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+19:02:36.862 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+19:02:36.977 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Log in ']
+19:02:37.001 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Log in ']is found
+19:02:37.077 INFO  manage.MyListener Start searching element by: By.id: email
+19:02:37.107 INFO  manage.MyListener The element with locator By.id: emailis found
+19:02:37.297 INFO  manage.MyListener Start searching element by: By.id: password
+19:02:37.318 INFO  manage.MyListener The element with locator By.id: passwordis found
+19:02:37.502 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type="submit"]
+19:02:37.525 INFO  manage.MyListener The element with locator By.xpath: //button[@type="submit"]is found
+19:02:37.555 INFO  manage.MyListener Start searching element by: By.xpath: //h2[.='Logged in success']
+19:02:38.733 INFO  manage.MyListener The element with locator By.xpath: //h2[.='Logged in success']is found
+19:02:38.769 INFO  manage.MyListener Start searching element by: By.xpath: //h2[.='Logged in success']
+19:02:38.801 INFO  manage.MyListener The element with locator By.xpath: //h2[.='Logged in success']is found
+19:02:38.819 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:02:38.845 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:02:38.845 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:02:38.861 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:02:38.917 INFO  tests.TestBase ******* Finish test
+19:02:38.918 INFO  tests.TestBase ******* Started method public void tests.LoginTests.loginPositiveTest(model.User)
+19:02:38.918 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+19:02:38.938 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+19:02:38.939 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+19:02:38.968 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+19:02:39.060 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Log in ']
+19:02:39.077 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Log in ']is found
+19:02:39.160 INFO  manage.MyListener Start searching element by: By.id: email
+19:02:39.186 INFO  manage.MyListener The element with locator By.id: emailis found
+19:02:39.351 INFO  manage.MyListener Start searching element by: By.id: password
+19:02:39.371 INFO  manage.MyListener The element with locator By.id: passwordis found
+19:02:39.544 INFO  manage.MyListener Start searching element by: By.xpath: //button[@type="submit"]
+19:02:39.574 INFO  manage.MyListener The element with locator By.xpath: //button[@type="submit"]is found
+19:02:39.611 INFO  manage.MyListener Start searching element by: By.xpath: //h2[.='Logged in success']
+19:02:39.902 INFO  manage.MyListener The element with locator By.xpath: //h2[.='Logged in success']is found
+19:02:39.932 INFO  manage.MyListener Start searching element by: By.xpath: //h2[.='Logged in success']
+19:02:39.959 INFO  manage.MyListener The element with locator By.xpath: //h2[.='Logged in success']is found
+19:02:39.977 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:02:40.007 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:02:40.007 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:02:40.039 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:02:40.091 INFO  tests.TestBase ******* Finish test

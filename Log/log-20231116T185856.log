@@ -1,0 +1,87 @@
+18:59:01.629 INFO  tests.TestBase ******* Started method public void tests.LoginTests.loginPositiveTest(model.User)
+18:59:01.635 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+18:59:11.716 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+18:59:11.718 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Log in ']
+18:59:11.744 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Log in ']is found
+18:59:11.845 INFO  manage.MyListener Start searching element by: By.id: emai
+18:59:21.892 INFO  manage.MyListener Something went wrong!
+18:59:21.893 INFO  manage.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#emai"}
+  (Session info: chrome=119.0.6045.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f27d421186b2ad07cd6fcd3b944e24
+*** Element info: {Using=id, value=emai}
+18:59:21.932 INFO  manage.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#emai"}
+  (Session info: chrome=119.0.6045.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f27d421186b2ad07cd6fcd3b944e24
+*** Element info: {Using=id, value=emai}
+18:59:22.569 INFO  manage.MyListener Here is the link to screenshot
+18:59:22.576 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+18:59:32.654 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+18:59:32.654 INFO  tests.TestBase ******* Finish test
+18:59:32.655 INFO  tests.TestBase ******* Started method public void tests.LoginTests.loginPositiveTest(model.User)
+18:59:32.656 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+18:59:42.690 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+18:59:42.691 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Log in ']
+18:59:42.708 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Log in ']is found
+18:59:42.753 INFO  manage.MyListener Start searching element by: By.id: emai
+18:59:52.786 INFO  manage.MyListener Something went wrong!
+18:59:52.786 INFO  manage.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#emai"}
+  (Session info: chrome=119.0.6045.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f27d421186b2ad07cd6fcd3b944e24
+*** Element info: {Using=id, value=emai}
+18:59:52.786 INFO  manage.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#emai"}
+  (Session info: chrome=119.0.6045.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f27d421186b2ad07cd6fcd3b944e24
+*** Element info: {Using=id, value=emai}
+18:59:53.265 INFO  manage.MyListener Here is the link to screenshot
+18:59:53.267 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:00:03.332 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:00:03.333 INFO  tests.TestBase ******* Finish test
+19:00:03.333 INFO  tests.TestBase ******* Started method public void tests.LoginTests.loginPositiveTest(model.User)
+19:00:03.333 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Logout ']
+19:00:13.360 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Logout ']is found
+19:00:13.360 INFO  manage.MyListener Start searching element by: By.xpath: //a[.=' Log in ']
+19:00:13.390 INFO  manage.MyListener The element with locator By.xpath: //a[.=' Log in ']is found
+19:00:13.506 INFO  manage.MyListener Start searching element by: By.id: emai
+19:00:23.564 INFO  manage.MyListener Something went wrong!
+19:00:23.564 INFO  manage.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#emai"}
+  (Session info: chrome=119.0.6045.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f27d421186b2ad07cd6fcd3b944e24
+*** Element info: {Using=id, value=emai}
+19:00:23.564 INFO  manage.MyListener no such element: Unable to locate element: {"method":"css selector","selector":"#emai"}
+  (Session info: chrome=119.0.6045.124)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MMEUCUR', ip: '192.168.0.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.124, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\Renata\AppData\Loc...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65212}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75f27d421186b2ad07cd6fcd3b944e24
+*** Element info: {Using=id, value=emai}
+19:00:24.023 INFO  manage.MyListener Here is the link to screenshot
+19:00:24.024 INFO  manage.MyListener Start searching element by: By.xpath: //button[.='Ok']
+19:00:34.045 INFO  manage.MyListener The element with locator By.xpath: //button[.='Ok']is found
+19:00:34.046 INFO  tests.TestBase ******* Finish test
